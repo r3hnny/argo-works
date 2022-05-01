@@ -1,2 +1,2 @@
 # argo-works
-argo cd exercises
+my foray into argo cd and related stuff
